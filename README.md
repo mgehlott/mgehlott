@@ -1,4 +1,3 @@
-### Hi there 👋
 
 <h1 align="center">👋 Hi, I'm <a href="https://www.linkedin.com/in/jigar-sable/" target="_blank"> Mahendra Kumar </a></h1>
 <h3 align="center"> <img src="https://readme-typing-svg.herokuapp.com?color=0357F7&lines=Full+Stack+Developer+%3A)" /> </h3>
@@ -11,7 +10,6 @@
 
 - 😄 Pronouns: He/His
 
-<img  align="center" src="https://komarev.com/ghpvc/?username=mgehlott&style=flat-square&color=blue" alt=""/>
 <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
@@ -54,7 +52,13 @@
   <img alt="MySQL" src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white"/>
   <img alt="MongoDB" src ="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
   <img alt="SQLite" src ="https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white"/>
+<br/>
 </div>
+<div>
+  <img  align="center" src="https://komarev.com/ghpvc/?username=mgehlott&style=flat-square&color=blue" alt=""/>
+    <br/>
+  <br/>
+  </div>
 
 
 <!-- <h3 align="left">Hosting :</h3>
@@ -66,18 +70,21 @@
   <img alt="Vercel" src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
   <img alt="Netlify" src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white"/>
 </div> -->
-<br/>
 
- <table>
+![Mahendra's github stats](https://github-readme-stats.vercel.app/api?username=mgehlott&theme=vision-friendly-dark&show_icons=true&hide=["issues"])
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mgehlott&layout=compact&theme=vision-friendly-dark)](https://github.com/mgehlott/github-readme-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=mgehlott&theme=vision-friendly-dark)](https://git.io/streak-stats)
+<!--  <table>
   <tr>
-    <td><img src="https://github-readme-stats.vercel.app/api?username=mgehlott&show_icons=true&theme=dark&locale=en" alt="Mahendra Kumar" /></td>
+    <td>
+    </td>
     <td><img src="https://github-readme-stats.vercel.app/api/top-langs?username=mgehlott&show_icons=true&theme=dark&locale=en&layout=compact" alt="mahendra kumar" /></td>
   </tr>
 </table>
 
 <div align="center">
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mgehlott&theme=dark" alt="Mahendra Kumar" /></p>
-  </div>
+  </div> -->
 
 <!-- 
 <div id="header" align="center">
